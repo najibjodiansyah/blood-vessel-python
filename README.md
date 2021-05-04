@@ -10,4 +10,4 @@ Method :     greyscale,
          dilation,  
          treshold.  
            
-Use clahe file for a better result.
+Use ada-clahe file for a better result.
